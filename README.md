@@ -11,17 +11,7 @@
 
 
 I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message.
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=dtkdev28092002-cpu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark"
-  />
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtkdev28092002-cpu&theme=onedark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
-  />
-</div>
 
 <div align="center">
 	<img height="180em" src="https://streak-stats.demolab.com/?user=dtkdev28092002-cpu&theme=onedark&hide_border=true"/>
